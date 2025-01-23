@@ -11,7 +11,8 @@ I am an independent software engineer focused on open-source wallet infrastructu
 - 💬 Ask me about wallet infrastructure  
 - 📫 Reach me: sgdheeban@gmail.com  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: Started a YC-backed crypto wallet startup  
+- ⚡ Fun fact: Started a YC-backed crypto wallet startup
+- ✍️ Writing: http://sgdheeban.github.io
 
 <!--
 **sgdheeban/sgdheeban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
