@@ -1,4 +1,8 @@
-## Hi there 👋
+# Independent Software Engineer | Open-Source Contributor | Wallet Infrastructure
+
+Independent software engineer specializing in open-source wallet infrastructure, supporting web3 startup and protocol teams. DMs open.
+
+### Hi there 👋
 
 <!--
 **sgdheeban/sgdheeban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
