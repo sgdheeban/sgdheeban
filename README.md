@@ -9,7 +9,7 @@ I am an independent software engineer focused on open-source wallet infrastructu
 - 👯 Open to collaborating on wallet infrastructure projects  
 - 🤔 Seeking help to build an open-source Ethereum developer console  
 - 💬 Ask me about wallet infrastructure  
-- 📫 Reach me: sgdheeban@gmail.com  
+- 📫 Reach me at: sgdheeban@gmail.com or Telegram @sgdheeban
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Started a YC-backed crypto wallet startup
 - ✍️ Writing: http://sgdheeban.github.io
