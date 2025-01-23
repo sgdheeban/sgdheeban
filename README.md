@@ -7,7 +7,7 @@ I am an independent software engineer focused on open-source wallet infrastructu
 - 🔭 Building the wallet infrastructure layer of web3  
 - 🌱 Learning Rust, Solidity & Go  
 - 👯 Open to collaborating on wallet infrastructure projects  
-- 🤔 Seeking help for open-source wallet initiatives  
+- 🤔 Seeking help to build an open-source Ethereum developer console  
 - 💬 Ask me about wallet infrastructure  
 - 📫 Reach me: sgdheeban@gmail.com  
 - 😄 Pronouns: He/Him  
