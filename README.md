@@ -1,4 +1,4 @@
-# Software Engineer | Open-Source Contributor | Wallet Infrastructure
+# Open-Source Contributor | Wallet Infrastructure
 
 Independent software engineer specializing in open-source wallet infrastructure, supporting web3 startup and protocol teams. DMs open.
 
