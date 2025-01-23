@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Independent software engineer specializing in open-source wallet infrastructure, supporting web3 startup and protocol teams. DMs open.
+I am an independent software engineer focused on open-source wallet infrastructure, supporting web3 startups and protocols.
 
 - 🔭 Building the wallet infrastructure layer of web3  
 - 🌱 Learning Rust, Solidity & Go  
