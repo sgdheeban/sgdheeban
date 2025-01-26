@@ -4,7 +4,7 @@
 
 I am an independent software engineer focused on open-source wallet infrastructure, supporting web3 startups and protocols.
 
-- 🔭 Building the wallet infrastructure layer of web3  
+- 🔭 Building the open wallet infrastructure layer of web3  
 - 🌱 Learning Rust, Solidity & Go  
 - 👯 Open to collaborating on wallet infrastructure projects  
 - 🤔 Seeking help to build an open-source Ethereum developer console  
