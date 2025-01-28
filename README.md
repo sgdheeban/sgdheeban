@@ -1,4 +1,4 @@
-# Building Ethereum Wallet Infrastructure
+# Building an open Ethereum wallet infrastructure
 
 ### Hi there 👋
 
