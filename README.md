@@ -1,4 +1,4 @@
-# Open-Source Contributor | Wallet Infrastructure
+# Building Ethereum Wallet Infrastructure
 
 ### Hi there 👋
 
