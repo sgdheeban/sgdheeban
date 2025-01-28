@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am an independent software engineer focused on open-source wallet infrastructure, supporting web3 startups and protocols.
+I am an independent software engineer building open-source Ethereum wallet infrastructure.
 
 - 🔭 Building an open wallet infrastructure layer for Ethereum  
 - 🌱 Learning Rust, Solidity & Go  
