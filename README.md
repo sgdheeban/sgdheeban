@@ -2,13 +2,12 @@
 
 ### Hi there 👋
 
-I am an independent software engineer building open-source Ethereum wallet infrastructure.
+I am an independent software engineer building web3 wallet infrastructure.
 
-- 🔭 Building an open wallet infrastructure layer for Ethereum  
-- 🌱 Learning Rust, Solidity & Go  
+- 🔭 Building an open wallet infrastructure layer for web3  
+- 🌱 Working with Rust, Solidity & Go  
 - 👯 Open to collaborating on wallet infrastructure projects  
-- 🤔 Seeking help to build an open-source Ethereum developer console  
-- 💬 Ask me about wallet infrastructure  
+- 💬 Ask me about web3 wallet infrastructure  
 - 📫 Reach me at: sgdheeban@gmail.com or Telegram @sgdheeban
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Started a YC-backed crypto wallet startup
