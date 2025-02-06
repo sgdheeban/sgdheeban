@@ -4,8 +4,8 @@
 
 I am an independent software engineer building web3 wallet infrastructure.
 
-- 🔭 Building an open wallet infrastructure layer for web3  
-- 🌱 Working with Rust, Solidity & Go  
+- 🔭 Building an open wallet infrastructure layer for web3
+- 💻 Currently writing code in 🦀 rust, golang & solidity (also proficient in nodejs, python, java, c) 
 - 👯 Open to collaborating on wallet infrastructure projects  
 - 💬 Ask me about web3 wallet infrastructure  
 - 📫 Reach me at: sgdheeban@gmail.com or Telegram @sgdheeban
