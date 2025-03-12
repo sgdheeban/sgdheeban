@@ -11,7 +11,7 @@ I am an independent software engineer building web3 wallet infrastructure.
 - 📫 Reach me at: sgdheeban@gmail.com or Telegram @sgdheeban
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Started a YC-backed crypto wallet startup
-- ✍️ Writing: http://sgdheeban.github.io
+- ✍️ Writing: http://web3wallets.substack.com
 
 <!--
 **sgdheeban/sgdheeban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
