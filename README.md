@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am an independent software engineer building web3 wallet infrastructure.
+I am a software engineer building web3 wallet infrastructure.
 
 - 🔭 Building an open wallet infrastructure layer for web3
 - 💻 Currently writing code in 🦀 rust, golang & solidity (also proficient in nodejs, python, java, c) 
